@@ -9,22 +9,22 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 ### LSTM Forecasting Model
 - Description: Developed a Long Short-Term Memory (LSTM) forecasting model to predict time series data.
 - Technologies Used: Python, TensorFlow, Keras.
-- Link: [Link to Project Repository or Description]
+- Link: [BTC Forecasting model](https://github.com/hugobombaca/btc-trading-bot)
 
-### London Bike Reviews (Tableau)
+### London Bike Analysis (Tableau)
 - Description: Visualized data related to London bike sharing patterns using Tableau.
 - Technologies Used: Tableau, Data Cleaning, Visualization.
-- Link: [[London Bike Reviews Analysis](https://github.com/hugobombaca/London-Bike-Rides-Analysis)]
+- Link: [London Bike Reviews Analysis](https://github.com/hugobombaca/London-Bike-Rides-Analysis)
 
 ### British Airways Reviews (Tableau)
 - Description: Analyzed customer reviews and feedback for British Airways using Tableau.
 - Technologies Used: Tableau, Data Analysis, Visualization.
-- Link: [Link to Project Repository or Description]
+- Link: [British Airway Reviews Analysis](https://github.com/hugobombaca/British-Airways-Reviews-Analysis)
 
 ### House Sales in Washington (Tableau)
 - Description: Visualized house sales data in Washington state to identify trends and patterns.
 - Technologies Used: Tableau, Data Visualization, Geospatial Analysis.
-- Link: [Link to Project Repository or Description]
+- Link: [House Prices U.S.A Analysis](https://github.com/hugobombaca/House-Sales-USA)
 
 ## Skills
 - Data Analysis: Proficient in data cleaning, preprocessing, analysis, and interpretation.

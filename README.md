@@ -59,8 +59,8 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 
 ## Contact
 - Email: hugobombaca@hotmail.com
-- LinkedIn: www.linkedin.com/in/hugobombaca
-- GitHub: https://github.com/hugobombaca
+- LinkedIn: [LinkedIn](www.linkedin.com/in/hugobombaca)
+- GitHub: [GitHub](https://github.com/hugobombaca)
 
 Thank you for visiting my portfolio! Feel free to reach out if you have any questions or opportunities for collaboration.
 

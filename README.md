@@ -37,7 +37,8 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 
 ## Education
 - Data Science Degree , ISCTE, 2022 - Ongoing
-- Certification in Data Analysis, IRONHACK, 2024
+- Certification as a Data Analyst, IRONHACK, 2024
+- Certification in Data Fundamentals, Coursera, 2023
 
 ## Contact
 - Email: hugobombaca@hotmail.com

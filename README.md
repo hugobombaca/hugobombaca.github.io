@@ -1,9 +1,9 @@
 # Hugo's Portfolio
 
-Welcome to my portfolio! I'm Hugo, a passionate data enthusiast with a keen interest in turning raw data into meaningful insights. Currently 24 years old, I'm on a journey to explore the vast world of data science and analytics, fueled by my love for extracting valuable insights from complex datasets.
+Welcome to my portfolio. I'm Hugo, an avid data enthusiast with a strong passion for transforming raw data into actionable insights. With 24 years under my belt, I'm currently immersed in the world of data science and analytics. Motivated by the challenge of extracting valuable insights from complex datasets, I'm dedicated to advancing my skills and making significant contributions in this dynamic field.
 
 ## About Me
-I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insights from data. My journey into the world of data analysis started with a certification in data analysis, and I'm currently pursuing a degree in data science to further enhance my skills and knowledge in this field. With a strong foundation in data analysis and a growing expertise in data science, I'm excited to continue my exploration and make meaningful contributions to the field.
+I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insights from data. My journey into the world of data analysis started during my high school years, where I pursued a degree in Programming and Computing. This early exposure laid the groundwork for my interest in data analysis. Subsequently, I obtained a certification in data analysis and am currently pursuing a degree in data science to further enhance my skills and knowledge in this domain. With a robust background in data analysis and data science, I look forward to furthering my exploration and making meaningful contributions to this evolving field.
 
 ## Projects
 ### LSTM Forecasting Model
@@ -30,18 +30,33 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 - Repo Link: [GitHub repository link](https://github.com/hugobombaca/House-Sales-USA)
 
 ## Skills
-- Data Analysis: Proficient in data cleaning, preprocessing, analysis, and interpretation.
-- Machine Learning: Experience in developing machine learning models, including regression, classification, and time series forecasting.
-- Data Visualization: Skilled in creating insightful visualizations using tools like Tableau, Matplotlib, and Seaborn.
-- Statistical Analysis: Knowledgeable in statistical techniques such as hypothesis testing, regression analysis, and clustering.
-- SQL: Proficient in writing SQL queries for data extraction, manipulation, and analysis.
-- Python: Advanced proficiency in Python programming for data analysis, including libraries like Pandas, NumPy, and Scikit-learn.
-- Deep Learning: Familiarity with deep learning concepts and frameworks like TensorFlow and Keras.
+- **Data Analysis:** Proficient in **data cleaning**, **preprocessing**, **analysis**, and **interpretation**.
+- **Machine Learning:** Experience in developing machine learning models, including **regression**, **classification**, and **time series forecasting**.
+- **Data Visualization:** Skilled in creating insightful visualizations using tools like **Tableau**, **Matplotlib**, and **Seaborn**.
+- **Statistical Analysis:** Knowledgeable in statistical techniques such as **hypothesis testing**, **regression analysis**, and **clustering**.
+- **SQL:** Proficient in writing **SQL queries** for **data extraction**, **manipulation**, and **analysis**.
+- **ETL (Extract, Transform, Load):** Familiar with ETL processes for managing and transforming data pipelines.
+- **Python:** Advanced proficiency in **Python programming** for data analysis, including libraries like **Pandas**, **NumPy**, and **Scikit-learn**.
+- **Deep Learning:** Familiarity with **deep learning concepts** and frameworks like **TensorFlow** and **Keras**.
+
 
 ## Education
-- Data Science Degree , ISCTE, 2022 - Ongoing
-- Certification as a Data Analyst, IRONHACK, 2024
-- Certification in Data Fundamentals, Coursera, 2023
+
+- **Level 5 Certification in Programming and Computing**
+  - Institution: ESA
+  - Duration: 2015-2018
+
+- **Certification in Data Fundamentals**
+  - Provider: Coursera
+  - Year: 2023
+
+- **Data Science Degree (Ongoing)**
+  - Institution: ISCTE
+  - Year Started: 2022
+
+- **Certification as a Data Analyst**
+  - Provider: IRONHACK
+  - Year: 2024
 
 ## Contact
 - Email: hugobombaca@hotmail.com

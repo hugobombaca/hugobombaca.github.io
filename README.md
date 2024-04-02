@@ -30,15 +30,14 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 - Repo Link: [GitHub repository link](https://github.com/hugobombaca/House-Sales-USA)
 
 ## Skills
-- **Data Analysis:** Proficient in **data cleaning**, **preprocessing**, **analysis**, and **interpretation**.
-- **Machine Learning:** Experience in developing machine learning models, including **regression**, **classification**, and **time series forecasting**.
-- **Data Visualization:** Skilled in creating insightful visualizations using tools like **Tableau**, **Matplotlib**, and **Seaborn**.
-- **Statistical Analysis:** Knowledgeable in statistical techniques such as **hypothesis testing**, **regression analysis**, and **clustering**.
-- **SQL:** Proficient in writing **SQL queries** for **data extraction**, **manipulation**, and **analysis**.
-- **ETL (Extract, Transform, Load):** Familiar with ETL processes for managing and transforming data pipelines.
-- **Python:** Advanced proficiency in **Python programming** for data analysis, including libraries like **Pandas**, **NumPy**, and **Scikit-learn**.
-- **Deep Learning:** Familiarity with **deep learning concepts** and frameworks like **TensorFlow** and **Keras**.
 
+- **Data Analysis:** Proficient in data cleaning, preprocessing, analysis, and interpretation.
+- **Machine Learning:** Experience in regression, classification, and time series forecasting.
+- **Data Visualization:** Skilled in creating insightful visualizations using tools like **Tableau** and **PowerBI**.
+- **Statistical Analysis:** Knowledgeable in hypothesis testing, regression analysis, and clustering.
+- **SQL:** Proficient in writing SQL queries for data extraction, manipulation, and analysis.
+- **Python:** Advanced proficiency in Python programming for data analysis, including libraries like **Pandas** and **Scikit-learn**.
+- **Deep Learning:** Familiarity with deep learning concepts and frameworks like **TensorFlow** and **Keras**.
 
 ## Education
 

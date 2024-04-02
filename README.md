@@ -14,7 +14,7 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 ### London Bike Reviews (Tableau)
 - Description: Visualized data related to London bike sharing patterns using Tableau.
 - Technologies Used: Tableau, Data Cleaning, Visualization.
-- Link: [[Link to Project Repository or Description](https://github.com/hugobombaca/London-Bike-Rides-Analysis)]
+- Link: [[London Bike Reviews Analysis](https://github.com/hugobombaca/London-Bike-Rides-Analysis)]
 
 ### British Airways Reviews (Tableau)
 - Description: Analyzed customer reviews and feedback for British Airways using Tableau.

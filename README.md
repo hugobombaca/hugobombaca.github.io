@@ -14,17 +14,20 @@ I'm Hugo, a 24-year-old data enthusiast with a deep passion for uncovering insig
 ### London Bike Analysis (Tableau)
 - Description: Visualized data related to London bike sharing patterns using Tableau.
 - Technologies Used: Tableau, Data Cleaning, Visualization.
-- Link: [London Bike Reviews Analysis](https://github.com/hugobombaca/London-Bike-Rides-Analysis)
+- Link: [London Bike Reviews Analysis](https://public.tableau.com/views/LondonBikeRidesAnalysis_17115385171490/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+- Repo Link: [GitHub repository link](https://github.com/hugobombaca/London-Bike-Rides-Analysis)
 
 ### British Airways Reviews (Tableau)
 - Description: Analyzed customer reviews and feedback for British Airways using Tableau.
 - Technologies Used: Tableau, Data Analysis, Visualization.
-- Link: [British Airway Reviews Analysis](https://github.com/hugobombaca/British-Airways-Reviews-Analysis)
+- Link: [British Airway Reviews Analysis](https://public.tableau.com/views/BAreviews_17116490606240/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+- Repo Link: [GitHub repository link](https://github.com/hugobombaca/British-Airways-Reviews-Analysis)
 
 ### House Sales in Washington (Tableau)
 - Description: Visualized house sales data in Washington state to identify trends and patterns.
 - Technologies Used: Tableau, Data Visualization, Geospatial Analysis.
-- Link: [House Prices U.S.A Analysis](https://github.com/hugobombaca/House-Sales-USA)
+- Link: [House Prices U.S.A Analysis](https://public.tableau.com/views/HouseSalesAnalysisforKingCounty/FINAL?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+- Repo Link: [GitHub repository link](https://github.com/hugobombaca/House-Sales-USA)
 
 ## Skills
 - Data Analysis: Proficient in data cleaning, preprocessing, analysis, and interpretation.
